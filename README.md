@@ -1,5 +1,7 @@
 # AI based Text Generator And Copy Editor
 
+Artificial Text predictor based on RNN LSTM method can predict text in any language. The AI based text editor can create new transcripts based on a sample literature of any writer and in any language.
+
 ### Code and Resources Used
 
 **Language:** Python 3.8
