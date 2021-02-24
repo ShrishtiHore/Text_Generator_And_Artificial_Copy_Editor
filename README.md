@@ -1,4 +1,4 @@
-# DL_Text_Corrector-Artificial-Copy-Editor-
+# AI based Text Generator And Copy Editor
 
 - To create a dataset for Deep Text Corrector models, we start with a large collection of mostly grammatically correct samples of conversational written English. The primary dataset considered in this project is the Cornell Movie-Dialogs Corpus, which contains over 300k lines from movie scripts. This was the largest collection of conversational written English I could find that was mostly grammatically correct.
 - Given a sample of text like this, the next step is to generate input-output pairs to be used during training. This is done by:
